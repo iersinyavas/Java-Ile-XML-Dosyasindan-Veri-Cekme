@@ -26,8 +26,8 @@ public class Main {
 
 		for (int i = 0; i < personellistesi.getLength(); i++) {
 			Element personel = (Element) personellistesi.item(i);
-			String artispersonelid = personel.getAttribute("id");
-			System.out.print(artispersonelid + "-" + personel.getElementsByTagName("adsoyad").item(0).getTextContent() + "\n");
+			String personelid = personel.getAttribute("id");
+			System.out.print(personelid + "-" + personel.getElementsByTagName("adsoyad").item(0).getTextContent() + "\n");
 			NodeList dersNodeList = personel.getElementsByTagName("dersadi");
 
 			for (int j = 0; j < dersNodeList.getLength(); j++) {
