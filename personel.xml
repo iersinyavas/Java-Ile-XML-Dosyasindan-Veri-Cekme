@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf8"?>
-<?xml-stylesheet type="text/xsl" href="sarkilar.xsl" ?>
+﻿<?xml version="1.0" encoding="utf8"?>
+<?xml-stylesheet type="text/xsl" href="personel.xsl" ?>
 <personeller>
 
 	<title>Personeller</title>
