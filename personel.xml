@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf8"?>
+<?xml-stylesheet type="text/xsl" href="sarkilar.xsl" ?>
+<personeller>
+
+	<title>Personeller</title>
+
+	<personel id="1">
+		<adsoyad>Ahmet Öztürk</adsoyad>
+		<dersadi no="1"> Matematik </dersadi>
+		<dersadi no="2"> Fizik </dersadi>
+	</personel>
+	<personel id="1">
+		<adsoyad>Ahmet Öztürk</adsoyad>
+		<dersadi no="1"> Matematik </dersadi>
+		<dersadi no="2"> Fizik </dersadi>
+	</personel>
+	<personel id="1">
+		<adsoyad>Mehmet Ayyıldız</adsoyad>
+		<dersadi no="1"> Kimya </dersadi>
+		<dersadi no="2"> Biyoloji </dersadi>
+	</personel>
+	<personel id="1">
+		<adsoyad>Aslı Güngör</adsoyad>
+		<dersadi no="1"> Edebiyat </dersadi>
+		<dersadi no="2"> Türk Dili </dersadi>
+	</personel>
+	<personel id="1">
+		<adsoyad>Cengiz Artuk</adsoyad>
+		<dersadi no="1"> Beden Eğitimi </dersadi>
+	</personel>
+</personeller>
